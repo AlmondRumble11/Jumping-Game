@@ -14,4 +14,4 @@ It is impossible to finish the game!
 NOTE: all of the images are from phaser site:http://labs.phaser.io/assets/
 and moving the character and the options are from the lecture video
 
-To get the game running clone this repository and go to this files folder and run the following code: browser-sytnc start --server --files "." and then a localhost page should start(if not go to http://localhost:3000/)
+To get the game running clone this repository and go to this files folder and run the following code: browser-sync start --server --files "." and then a localhost page should start(if not go to http://localhost:3000/)
