@@ -15,6 +15,7 @@ NOTE: all of the images are from phaser site:http://labs.phaser.io/assets/
 and moving the character and the options are from the lecture video
 
 To get the game running clone this repository and go to this files folder and run the following codes:
+
 npm install
 
 npm install -g browser-sync
